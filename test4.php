@@ -7,5 +7,5 @@ $num2 = 20;
 $suma = $num1 + $num2;
 
 // Mostrar el resultado
-echo "La sumaaaaa de $num1 y $num2 es: $suma";
+echo "La suma de $num1 y $num2 e878788888s: $sumaaaaaaaaaa";
 ?>
